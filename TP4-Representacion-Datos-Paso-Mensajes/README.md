@@ -56,3 +56,7 @@ Binario	27,000 (~26,37 KB)	~19,35	~19,35
 🔹 Binario es más eficiente y rápido, ideal para transmisión de grandes volúmenes de datos.
 
 📷 Capturas de Pantalla
+<img width="1116" height="442" alt="Captura de pantalla 2026-09-24 190039" src="https://github.com/user-attachments/assets/9c2c9588-8329-4bd6-b600-f3762c92fd3c" />
+
+<img width="1106" height="401" alt="Captura de pantalla 2026-09-24 190251" src="https://github.com/user-attachments/assets/2a3bafe0-c176-48ca-b653-249ab2834e1e" />
+
