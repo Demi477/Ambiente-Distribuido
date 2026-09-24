@@ -44,8 +44,13 @@ Este proyecto aborda el desarrollo de aplicaciones distribuidas mediante program
 
 &gt; **Nota:** Adjuntar aquí las capturas de pantalla de las ejecuciones según los criterios del trabajo práctico.
 
-1. **Servidor TCP con al menos 3 clientes conectados en simultáneo y broadcast activo:**\--Image of: --Demostración Chat TCP (se adjunta con 2 clientes)
+1. **Servidor TCP con al menos 3 clientes conectados en simultáneo y broadcast activo:**\-
+Image of: --Demostración Chat TCP (se adjunta con 2 clientes)
+<img width="860" height="382" alt="servido_chat" src="https://github.com/user-attachments/assets/45c48e8e-29d4-40d2-aaa6-b47208e0f410" />
+<img width="695" height="332" alt="msj2" src="https://github.com/user-attachments/assets/7e8b49e9-fb85-444f-8a90-b3e8852dc7d3" />
+<img width="747" height="372" alt="mensaje" src="https://github.com/user-attachments/assets/a9dbdc63-7d46-46f7-91bc-aaad34084e06" />
 
 
-
-2. **Receptor UDP capturando datagramas y registrando el timeout (SocketTimeoutException):**\--Image of: --Demostración UDP Timeout
+3. **Receptor UDP capturando datagramas y registrando el timeout (SocketTimeoutException):**\--Image of: --Demostración UDP Timeout
+<img width="1027" height="767" alt="Captura de pantalla 2026-09-23 221546" src="https://github.com/user-attachments/assets/ec41a5a3-ee87-4478-8cd7-337761590b84" />
+<img width="861" height="265" alt="msj" src="https://github.com/user-attachments/assets/d1e6f892-0afa-43aa-8078-6238a69d4507" />
