@@ -65,6 +65,6 @@ Prueba funcional ejecutada enviando una ráfaga de 500 mensajes desde 5 sensores
 ```
 captura de pantalla
 
-<img width="1322" height="692" alt="Captura de pantalla 2026-10-04 193805" src="https://github.com/user-attachments/assets/9c25e152-d1c0-4d2d-81ab-785ae7f305b7" />
+<img width="1322" height="692" alt="Captura de pantalla 2026-10-04 193805" src="https://github.com/user-attachments/assets/c4862a5d-0ee9-40ca-830c-0fcb26cbcdd3" />
 
 
