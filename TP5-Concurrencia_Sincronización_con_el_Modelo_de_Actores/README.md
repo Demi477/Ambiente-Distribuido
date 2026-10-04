@@ -63,4 +63,8 @@ En el flujo de ejecución se demuestran las operaciones esenciales enunciadas po
 Prueba funcional ejecutada enviando una ráfaga de 500 mensajes desde 5 sensores concurrentes:
 
 ```
-captura de pantalla 
+captura de pantalla
+
+<img width="1322" height="692" alt="Captura de pantalla 2026-10-04 193805" src="https://github.com/user-attachments/assets/678fa2c0-5ef9-4e53-9384-53200c98dcd6" />
+
+
