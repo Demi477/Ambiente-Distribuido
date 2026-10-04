@@ -60,9 +60,10 @@ En el flujo de ejecución se demuestran las operaciones esenciales enunciadas po
 
 ## 📊 6\. Resultados de la Ejecución Real
 
-Prueba funcional ejecutada enviando una ráfaga de 500 mensajes desde 5 sensores concurrentes:
+Prueba funcional ejecutada 
+
+<img width="1322" height="692" alt="Captura de pantalla 2026-10-04 193805" src="https://github.com/user-attachments/assets/31cf3d1d-11da-415f-9d9b-a6941e84af09" />
+
 
 ```
-captura de pantalla
 
-ejecucion_tp5.png
