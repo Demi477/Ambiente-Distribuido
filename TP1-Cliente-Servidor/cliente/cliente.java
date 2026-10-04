@@ -3,7 +3,7 @@ import java.net.*;
 import java.util.Scanner;
 
 public class cliente {
-    public static void main(String[] args) {
+    public static void Main(String[] args) {
         String host = "localhost"; // IP del servidor (local)
         int puerto = 5500; // Puerto requerido en el TP [1]
 

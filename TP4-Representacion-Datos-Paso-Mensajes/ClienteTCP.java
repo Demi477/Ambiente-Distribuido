@@ -9,7 +9,7 @@ public class ClienteTCP {
     private static final int CANTIDAD_TRANSACCIONES = 1000;
 
     public static void main(String[] args) {
-        System.out.println("=== CLIENTE TCP INICIANDO RÁFAGA DE " + CANTIDAD_TRANSACCIONES + " TRANSACCIONES ===");
+        System.out.println("=== CLIENTE TCP INICIANDO RAFAGA DE " + CANTIDAD_TRANSACCIONES + " TRANSACCIONES ===");
 
         List<Transaccion> transacciones = new ArrayList<>();
         for (int i = 1; i <= CANTIDAD_TRANSACCIONES; i++) {
@@ -51,7 +51,7 @@ public class ClienteTCP {
 
             System.out.println("\n=== RESUMEN CLIENTE ===");
             System.out.printf("JSON es %.2f%% más grande que Binario%n",
-                    ((double)(bytesJson - bytesBin) / bytesBin) * 100);
+                    ((double) (bytesJson - bytesBin) / bytesBin) * 100);
 
         } catch (IOException e) {
             System.err.println("Error en cliente: " + e.getMessage());

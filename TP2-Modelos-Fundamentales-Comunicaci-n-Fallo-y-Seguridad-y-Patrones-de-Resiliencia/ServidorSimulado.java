@@ -3,7 +3,7 @@ import java.net.*;
 import java.util.Random;
 
 public class ServidorSimulado {
-    public static void main(String[] args) throws IOException {
+    public static void Main(String[] args) throws IOException {
         ServerSocket serverSocket = new ServerSocket(5000);
         Random random = new Random();
         System.out.println("Servidor escuchando en puerto 5000...");

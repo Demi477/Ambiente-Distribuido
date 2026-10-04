@@ -36,7 +36,7 @@ Se implementó:
 
 Servidor TCP → escucha y deserializa objetos recibidos.
 
-Cliente TCP → envía ráfaga de 1000 transacciones en JSON y luego en Binario.
+Cliente TCP → envía rafaga de 1000 transacciones en JSON y luego en Binario.
 
 Se midieron:
 
