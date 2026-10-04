@@ -65,4 +65,4 @@ Prueba funcional ejecutada enviando una ráfaga de 500 mensajes desde 5 sensores
 ```
 captura de pantalla
 
-<img width="1322" height="692" alt="Captura de pantalla 2026-10-04 193805" src="https://github.com/user-attachments/assets/3e837397-7e51-4d7a-baff-d204042ed357">
+ejecucion_tp5.png
