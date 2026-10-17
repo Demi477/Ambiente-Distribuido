@@ -1,4 +1,4 @@
-**Trabajo Práctico N° 7**
+📘 **Trabajo Práctico N° 7**
 
 **Materia:** Desarrollo de Aplicaciones para Ambientes Distribuidos  
 
@@ -9,14 +9,14 @@
 **Alumno:** Gabriel Quiroga
 
 
-*/Descripción*
+**Descripción**
 
 
 Se desarrolló una aplicación distribuida utilizando una arquitectura Cliente-Servidor basada en una API REST implementada con FastAPI.
 
 La aplicación permite consultar y agregar productos mediante solicitudes HTTP intercambiando información en formato JSON.
 
-*/Tecnologías Utilizadas*
+**Tecnologías Utilizadas**
 
 
 Python
@@ -26,19 +26,19 @@ Requests
 HTTP
 JSON
 
-*/Arquitectura*
+**Arquitectura**
 
 
 Cliente Python ↓ HTTP / JSON ↓ API REST FastAPI ↓ Catálogo de Productos
 
-*/Marshalling y Unmarshalling*
+**Marshalling y Unmarshalling**
 
 
 Marshalling: conversión de objetos Python a JSON para ser enviados por HTTP.
 
 Unmarshalling: conversión del JSON recibido a objetos Python mediante respuesta.json().
 
-*/Manejo de Errores*
+**Manejo de Errores**
 
 
 Se implementó:
@@ -46,7 +46,7 @@ Se implementó:
 Error 404 cuando un producto no existe.
 Error 500 para simular una falla interna del servidor.
 
-*/Evidencias*
+**Evidencias**
 
 
 Se adjuntan capturas de pantalla donde se verifica:
@@ -73,7 +73,7 @@ Cliente Python consumiendo la API.
 <img width="1331" height="897" alt="cp5" src="https://github.com/user-attachments/assets/1d39d20c-d81c-4871-bc26-ceed5f27d085" />
 
 
-*/Ejecución*
+**Ejecución**
 
 
 Instalar dependencias:
