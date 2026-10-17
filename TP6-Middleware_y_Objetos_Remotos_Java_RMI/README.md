@@ -97,7 +97,9 @@ Diagrama de Funcionamiento
 
              CLIENTE
 Evidencias de Ejecución captura de pantalla
-
+<img width="1277" height="140" alt="servidor " src="https://github.com/user-attachments/assets/b1c8c302-9f8c-40cb-be4f-7578d55ca8cd" />
+<img width="1001" height="677" alt="clientes" src="https://github.com/user-attachments/assets/6aee019f-a363-4f36-bf90-209c609797c1" />
+<img width="661" height="562" alt="Captura de pantalla 2026-10-13 225918" src="https://github.com/user-attachments/assets/a0380bb3-a980-481f-b967-f90ddb8ac837" />
 
 Cuestionario Teórico
 1. ¿Cuál es la diferencia entre Sockets y Java RMI?
