@@ -1,7 +1,11 @@
 **Trabajo Práctico N° 7**
-**Materia:** Desarrollo de Aplicaciones para Ambientes Distribuidos
+
+**Materia:** Desarrollo de Aplicaciones para Ambientes Distribuidos  
+
 **Tema:**Integración entre Capas y Consumo de APIs
+
 **Docente:** Lic. Gabriel Artaza 
+
 **Alumno:** Gabriel Quiroga
 
 
