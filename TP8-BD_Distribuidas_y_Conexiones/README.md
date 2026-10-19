@@ -93,7 +93,6 @@ Contenedores ejecutándose.
 Creación de la tabla.
 Escritura exitosa mediante la API.
 Verificación de registros almacenados.
-Detención del nodo principal.
 Error producido por la caída del nodo.
 Recuperación del servicio.
 
