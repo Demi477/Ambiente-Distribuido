@@ -92,7 +92,6 @@ Las capturas adjuntas corresponden a:
 Contenedores ejecutándose.
 Creación de la tabla.
 Escritura exitosa mediante la API.
-Consulta de datos.
 Verificación de registros almacenados.
 Detención del nodo principal.
 Error producido por la caída del nodo.
@@ -109,8 +108,6 @@ Recuperación del servicio.
 
 
 <img width="1172" height="247" alt="03-post-exitoso" src="https://github.com/user-attachments/assets/44fcc884-febf-44c3-9a0f-0fb93d21034b" />
-
-<img width="1172" height="262" alt="04-get-productos" src="https://github.com/user-attachments/assets/76ebf18b-8166-4dbc-883e-a0b7fc10fe5a" />
 
 
 <img width="962" height="202" alt="06-caida-primario" src="https://github.com/user-attachments/assets/103a6189-1a86-4e31-a680-8260d3f3d133" />
