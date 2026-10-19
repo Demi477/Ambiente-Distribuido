@@ -1,7 +1,11 @@
 ## TP 8 - Base de Datos Distribuida con Docker
+
 **Docente:** Lic. Gabriel Artaza 
+
 **Alumno:** Gabriel Quiroga
+
 **Materia:** Ambientes Distribuidos
+
 
 ## Objetivo
 
