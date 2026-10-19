@@ -1,4 +1,3 @@
-<img width="1897" height="761" alt="01-docker-contenedores" src="https://github.com/user-attachments/assets/73fab098-e0f4-48f6-8e03-05f64ad73873" />## TP 8 - Base de Datos Distribuida con Docker
 
 **Docente:** Lic. Gabriel Artaza 
 
