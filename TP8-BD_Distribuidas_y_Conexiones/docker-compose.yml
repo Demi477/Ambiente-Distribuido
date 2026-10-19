@@ -1,0 +1,27 @@
+services:
+
+  postgres-primary:
+    image: postgres:16
+
+    container_name: postgres-primary
+
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: tp8
+
+    ports:
+      - "5432:5432"
+
+  postgres-replica:
+    image: postgres:16
+
+    container_name: postgres-replica
+
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: tp8
+
+    ports:
+      - "5433:5432"
