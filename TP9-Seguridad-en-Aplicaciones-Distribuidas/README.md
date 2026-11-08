@@ -35,10 +35,15 @@ npm install express jsonwebtoken dotenv selfsigned
 Plain Text
 TP9-Seguridad-en-Aplicaciones-Distribuidas
 │
+
 ├── node_modules
+
 ├── .env
+
 ├── package.json
+
 ├── package-lock.json
+
 └── server.js
 
 *4. Configuración del Entorno*
@@ -149,6 +154,20 @@ Plain Text
 ADMIN
 
 **CAPTURAS DE PANTALLA: PRUEBA REALIZADA**
+
+<img width="1482" height="121" alt="en consola" src="https://github.com/user-attachments/assets/8c3b5e2b-1968-47bf-b3f1-d5e79600ecbe" />
+
+<img width="1847" height="807" alt="login" src="https://github.com/user-attachments/assets/17084a61-3125-47a7-8c38-af8fd9542250" />
+
+<img width="1841" height="826" alt="perfil" src="https://github.com/user-attachments/assets/c877fd07-3639-4e5f-b5e7-f966647a3a55" />
+
+<img width="1842" height="817" alt="admin" src="https://github.com/user-attachments/assets/661715a9-4a4b-4b95-a70a-789ffaf73c5a" />
+
+<img width="1821" height="937" alt="TOKEN" src="https://github.com/user-attachments/assets/e48b6878-be30-4d7f-8826-211db3508a30" />
+
+<img width="1841" height="842" alt="msj correcto" src="https://github.com/user-attachments/assets/3a456623-29bf-43ff-87e2-8c9d2f4c1b0b" />
+
+
 
 
 
