@@ -136,3 +136,25 @@ cpu-ram.png
 **CAPTURAS DE PANTALLA DE LA IMPLEMENTACION**
 
 
+
+<img width="1562" height="402" alt="carga-50-usuario" src="https://github.com/user-attachments/assets/9b6f499c-b60b-49ac-a540-d622165c50a0" />
+
+
+<img width="1546" height="406" alt="carga-100-usuario" src="https://github.com/user-attachments/assets/ad65bb9c-dc5b-4205-99ce-71a8de9d7364" />
+
+
+<img width="1552" height="402" alt="carga-150-usuario" src="https://github.com/user-attachments/assets/b72be5bd-9853-4197-a40e-e0923ca2515f" />
+
+
+<img width="1517" height="401" alt="carga-200-usuario" src="https://github.com/user-attachments/assets/85400aeb-b5be-48d2-b522-f753f0c465aa" />
+
+
+<img width="937" height="202" alt="carga y estrés se procesaron correctamente 57 372" src="https://github.com/user-attachments/assets/6ce07b77-ca0e-472d-b7f7-394be3236094" />
+
+
+<img width="1001" height="382" alt="rendimiento" src="https://github.com/user-attachments/assets/01552ea0-d53e-4db5-8d1c-ecccc09f0aed" />
+
+
+
+
+
